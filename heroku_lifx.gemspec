@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ivo.dancet@gmail.com"]
   spec.summary       = %q{LIFX bulb as a Heroku status light}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/caifara/heroku_lifx"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
