@@ -1,24 +1,18 @@
 # HerokuLifx
 
-TODO: Write a gem description
+Shows heroku status through lifx bulbs.
+
+
+Tired of waiting for the june 23, 2014 issue to resolve, I've set my LIFX
+bulb to wait for the issue to resolve ...
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'heroku_lifx'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install heroku_lifx
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ heroku_lifx
 
 ## Contributing
 
