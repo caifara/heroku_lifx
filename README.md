@@ -4,7 +4,7 @@ Shows heroku status through lifx bulbs.
 
 
 Tired of waiting for the june 23, 2014 issue to resolve, I've set my LIFX
-bulb to wait for the issue to resolve ...
+bulb to wait for it ...
 
 ## Installation
 
